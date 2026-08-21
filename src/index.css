@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .geometric-dot-grid {
+    background-image: radial-gradient(#334155 1px, transparent 1px);
+    background-size: 24px 24px;
+  }
+}

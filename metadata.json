@@ -1,0 +1,6 @@
+{
+  "name": "VisionDetect AI",
+  "description": "Interactive real-time object detection and computer vision platform powered by Gemini AI and edge neural networks.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
